@@ -7,11 +7,11 @@ THIS ACCOUNT WAS MADE TO ADD DESCRIPTION HOW TO GET C++ 17 LULW.
 
 sudo apt-get update
 
-#Then this 
+# Then this 
 
 sudo apt-get install g++-7
 
-#then this 
+# then this 
 
 g++-7 --version
 
