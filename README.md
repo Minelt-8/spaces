@@ -9,12 +9,12 @@ sudo apt-get update
 
 # Then this 
 
-sudo apt-get install g++-7
+sudo apt-get install g++-10
 
 # then this 
 
-g++-7 --version
+g++-10 --version
 
 then add you cpp file
 
-g++-7 -std=c++17 -o outputfile yourfilename.cpp
+g++-10 -std=c++20 -o outputfile yourfilename.cpp
