@@ -8,7 +8,7 @@ int userLength(){
         int number;
         std::cin >> number;
         if(!number){
-            if(static_cast<char>(number) == 'q'){
+            if(static_cast<char>(number) == 'Q'){
                 std::cout << "EXITED";
                 return 0;
             }
