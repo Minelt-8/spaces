@@ -152,6 +152,9 @@ void askUserForFunction(){
     case 'E':
         median(userVector(initializeVectorLength()));
         break;
+    case 'Q':
+        std::cout << "EXITED SUCCSESFULY!";
+        return;
     }
 
     if(!input){
